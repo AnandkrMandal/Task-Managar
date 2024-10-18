@@ -25,7 +25,7 @@ This project is a task manager web app built using **React** and **Vite** for th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AnandkrMandal/task-manager.git
+git clone https://github.com/AnandkrMandal/Task-Managar.git
 cd task-manager
 ```
 
